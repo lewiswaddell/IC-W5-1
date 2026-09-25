@@ -1,0 +1,72 @@
+---
+title: "Class notes for Week 05"
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+  html:
+      toc: true
+      toc-depth: 3
+      toc-expand: 1
+      toc_locaiton: right-body
+      embed-resources: true
+execute:
+  freeze: auto
+---
+
+# Research Process
+
+1.  Defining the problem
+2.  Developing an Approach to the Problem
+    - Conduct exploratory research
+      - opinions of industry expert, analysis of secondary data, qualitative research, pilot studies
+    - Formulate research questions & hypotheses
+      - including thoretical framework, analytical models
+3.  Formulate research Design
+    1.  methods for collecting quatitative data
+    2.  Measurement and scale
+    3.  Questionaire design
+    4.  sampling process and sample size
+
+what information do I need to have a great digital marketing plan
+
+- should be related to other marketing objectives
+
+- project object CANNOT be digital marketing plan
+
+- analytics objective is vague
+
+  - identify other variable can i use to address analytics objective
+
+  - exploratory; not conclusive
+
+  - similar to research question
+
+  - no clear answers
+
+# Overview of Next five weeks
+
+- 4 WEEKS REMAINING BEFORE PRESENTATIONS
+
+- Upcoming case study assignment
+
+- Don't forget case study assignments – first still available: due 09/26
+
+- IRB due 10/17
+
+  - takes a long time, start NOW
+
+- CITI training due 10/7
+
+- Portfolio won't have a due date yet but start thinking about it
+
+- End of semester will be focused on data
+
+# CH 1 CEP Revisions
+
+- Each PO needs to connect to each AO
+
+- Condense, no need for explanations yet
+
+  - remove metrics info
+
+- What are you going to measure against for comparison?
